@@ -1,4 +1,5 @@
 # Skill_Find 🧭
+![CI](https://github.com/realMNohgee/Skill_Find/actions/workflows/ci.yml/badge.svg) ![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 **Index and search local Python tools and skills by their docstrings — zero dependencies, pure Python stdlib.**
 
